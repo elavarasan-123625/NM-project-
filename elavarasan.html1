@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <img src="IMG_20250326_143201".jpg alt="Your Profile Picture" class="profile-picture">
+        <img src="IMG_20250326_143201.jpg" alt="Your Profile Picture" class="profile-picture">
         <h1>Elavarasan</h1>
         <p><a href="mailto:[Your Email]">[vikramshan1233@gmail.com]</a> | [8825510174]</p>
     </header>
